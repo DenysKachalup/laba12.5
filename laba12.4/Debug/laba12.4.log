@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\AP\LABAP\12\laba12.4\laba12.4\Source.cpp(33): warning C4715: read: значение возвращается не при всех путях выполнения
+  laba12.4.vcxproj -> D:\AP\LABAP\12\laba12.4\Debug\laba12.4.exe
